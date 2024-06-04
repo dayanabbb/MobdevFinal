@@ -10,7 +10,7 @@ OpenLeaf is an innovative eBook application designed to provide users with a sea
 
 ## Installation
 1.Clone repository 
-- git clone https://github.com/yourusername/OpenLeaf.git
+- git clone https://github.com/dayanabbb/OpenLeaf.git
 - cd OpenLeaf
 2.Install dependencies
 - flutter pub get
